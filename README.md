@@ -5,7 +5,7 @@
 
 # I have made some custom options like
 
-You can clone this file and modify to your needs. [https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind.conf](https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind.conf)
+You can clone this file and modify to your needs. [https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind/refind.conf](https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind/refind.conf)
 
 * Able to use mouse
 * Able to use Touch Screen
@@ -14,7 +14,7 @@ You can clone this file and modify to your needs. [https://github.com/Ramen-Lady
 * Added Entries like Arch Linux, Fedora Linux, Windows
 
 # 我加入並修改咗一啲自訂選項
-你可以修改依個檔案去配合自己所需 [https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind.conf](https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind.conf)
+你可以修改依個檔案去配合自己所需 [https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind/refind.conf](https://github.com/Ramen-LadyHKG/Ramen_rEFInd_Config/blob/main/boot/EFI/refind/refind.conf)
 
 * 可以使用滑鼠
 * 可以使用觸控螢幕
